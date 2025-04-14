@@ -1,4 +1,4 @@
-👀 I’m interested in transitioning from civil engineering to tech, focusing on machine learning, data engineering, and cybersecurity. I enjoy working with data (tabular, images, etc.) and I’m also curious about cloud technologies and cybersecurity's growth potential.
+I’m interested in transitioning from civil engineering to tech, focusing on machine learning, data engineering, and cybersecurity. I enjoy working with data (tabular, images, etc.) and I’m also curious about cloud technologies and cybersecurity's growth potential.
 
 🌱 I’m currently learning AWS Cloud (working towards the AWS Certified Cloud Practitioner) and deploying machine learning models using AWS SageMaker. I’ve also completed the Google Cloud course, Kaggle Titanic project, and Coursera’s Machine Learning and Deep Learning Specializations.
 
